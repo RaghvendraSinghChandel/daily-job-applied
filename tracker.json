@@ -1,0 +1,231 @@
+{
+  "resume": "resume.md",
+  "last_run": "2026-10-21",
+  "jobs": [
+    {
+      "id": "resourceful-playwright-ts",
+      "company": "Resourceful Talent Group",
+      "title": "QA Automation Engineer (Playwright + Typescript)",
+      "url": "https://himalayas.app/companies/resourceful-talent-group/jobs/qa-automation-engineer-playwright-typescript",
+      "first_seen": "2026-10-21",
+      "posted": "2026-10-10",
+      "score": 85,
+      "status": "not_applied",
+      "location": "Remote (worldwide)",
+      "work_mode": "Remote",
+      "experience": "4+ yrs",
+      "skills": "Playwright, TypeScript, CI/CD, perf testing",
+      "salary": "Not disclosed",
+      "recommendation": "Apply – EST-hours overlap; Docker gap",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "allgentech-playwright",
+      "company": "All Generation Tech",
+      "title": "QA Automation Engineer (Playwright)",
+      "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-automation-engineer-playwright-2622946752",
+      "first_seen": "2026-10-21",
+      "posted": "2026-10-19",
+      "score": 85,
+      "status": "not_applied",
+      "location": "Remote (India)",
+      "work_mode": "Remote",
+      "experience": "2–3+ yrs",
+      "skills": "Playwright, TS, JS, Python",
+      "salary": "Not disclosed",
+      "recommendation": "Apply – check pay; HQ unverified",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "helius-wdio-appium",
+      "company": "Helius Technologies",
+      "title": "Automation Test Engineer (WebdriverIO & Appium)",
+      "url": "https://wellfound.com/jobs/4571267-automation-testengineer-clone",
+      "first_seen": "2026-10-21",
+      "posted": "~2026-08 (\"2 months ago\")",
+      "score": 83,
+      "status": "not_applied",
+      "location": "Hyderabad, India",
+      "work_mode": "On-site",
+      "experience": "4–6 yrs",
+      "skills": "WebdriverIO+TS, Appium Android/iOS, REST, CI/CD",
+      "salary": "₹8–18L",
+      "recommendation": "Apply if open to Hyderabad; AI/MCP gap",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "valsoft-sdet",
+      "company": "Valsoft Corporation",
+      "title": "Software Development Engineer in Test (SDET)",
+      "url": "https://himalayas.app/companies/valsoft-corporation/jobs/software-development-engineer-in-test-sdet",
+      "first_seen": "2026-10-21",
+      "posted": "2026-09-27",
+      "score": 82,
+      "status": "not_applied",
+      "location": "Remote (India only)",
+      "work_mode": "Remote",
+      "experience": "Mid-level",
+      "skills": "Cypress/Playwright, JS/TS, Git, CI/CD",
+      "salary": "Not disclosed",
+      "recommendation": "Apply – Jest/xUnit gap",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "axi-senior-qa-5201321007",
+      "company": "Axi",
+      "title": "Senior QA Automation Engineer",
+      "url": "https://job-boards.greenhouse.io/axicorpfinancialservicesptyltd/jobs/5201321007",
+      "first_seen": "2026-10-21",
+      "posted": "2026-08-05 (per aggregator)",
+      "score": 79,
+      "status": "not_applied",
+      "location": "Bengaluru, India",
+      "work_mode": "Not stated",
+      "experience": "5–8 yrs",
+      "skills": "TS + WebdriverIO + Appium; Playwright preferred",
+      "salary": "Not disclosed",
+      "recommendation": "Review – stack perfect, exp stretch",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "okta-sset-8239048",
+      "company": "Okta",
+      "title": "Senior Software Engineer in Test",
+      "url": "https://www.okta.com/company/careers/rd/senior-software-engineer-in-test-8239048/",
+      "first_seen": "2026-10-21",
+      "posted": "unknown",
+      "score": 77,
+      "status": "not_applied",
+      "location": "Bengaluru, India",
+      "work_mode": "Hybrid",
+      "experience": "5–8 yrs",
+      "skills": "Playwright/Cypress + TS, API, CI/CD, Locust",
+      "salary": "Not disclosed",
+      "recommendation": "Review – exp stretch; REST Assured/JMeter/K8s gap",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "pleased-sdet",
+      "company": "Pleased Technologies",
+      "title": "Software Development Engineer in Test",
+      "url": "https://himalayas.app/companies/pleased-technologies/jobs/software-development-engineer-in-test",
+      "first_seen": "2026-10-21",
+      "posted": "2026-10-06",
+      "score": 76,
+      "status": "not_applied",
+      "location": "Remote (worldwide)",
+      "work_mode": "Remote",
+      "experience": "5 yrs min",
+      "skills": "Playwright, Python, CI/CD",
+      "salary": "$100K–175K",
+      "recommendation": "Review – Python/distributed systems heavy",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "codest-senior-qa",
+      "company": "The Codest",
+      "title": "Senior QA Automation Engineer",
+      "url": "https://himalayas.app/companies/codest-ltd-company-no-12590542-vat-number-gb363431020/jobs/senior-qa-automation-engineer",
+      "first_seen": "2026-10-21",
+      "posted": "2026-09-21",
+      "score": 76,
+      "status": "not_applied",
+      "location": "Remote (worldwide)",
+      "work_mode": "Remote",
+      "experience": "Senior",
+      "skills": "Playwright/Cypress, Appium, Postman, TS",
+      "salary": "PLN 18–21k/month",
+      "recommendation": "Review – Polish JD; Pact gap",
+      "last_checked": "2026-10-21"
+    },
+    {
+      "id": "lingaro-tae",
+      "company": "Lingaro",
+      "title": "Test Automation Engineer",
+      "url": "https://jobs.lever.co/lingarogroup/e8f2ef16-8d44-4051-8dad-effd2b690086",
+      "first_seen": "2026-10-21",
+      "posted": "unknown",
+      "score": 69,
+      "status": "not_applied",
+      "location": "Remote (India)",
+      "work_mode": "Remote (contract)",
+      "experience": "Senior/Lead",
+      "skills": "Playwright + TS, SQL, Git, CI/CD",
+      "salary": "Not disclosed",
+      "recommendation": "Review – lead contract; Databricks/Azure gap",
+      "last_checked": "2026-10-21"
+    }
+  ],
+  "excluded": [
+    {
+      "company": "Concentrix",
+      "title": "SDET I (TCF)",
+      "reason": "employer link not verified (seen only on testdevjobs, posted 2026-10-19); min 5 yrs; on-site Bangalore — recheck"
+    },
+    {
+      "company": "Globalli",
+      "title": "Senior Test Automation Engineer",
+      "reason": "requires bilingual English/Spanish"
+    },
+    {
+      "company": "CXM",
+      "title": "Full Stack QA Developer",
+      "reason": "requires native Russian"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "Software Test Engineer – D365 (R0000376451)",
+      "reason": "official page 404"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "Senior QA Automation Engineer – AEM Assets",
+      "reason": "8+ yrs"
+    },
+    {
+      "company": "Real",
+      "title": "QA Automation Engineer (PlayWright)",
+      "reason": "removed 2026-05-21"
+    },
+    {
+      "company": "Avenga",
+      "title": "Senior Mobile QA Automation Engineer",
+      "reason": "410 gone; Poland"
+    },
+    {
+      "company": "Hitachi Solutions",
+      "title": "Playwright Automation + SDET",
+      "reason": "410 gone"
+    },
+    {
+      "company": "EPAM",
+      "title": "SDET JS/TS/Playwright",
+      "reason": "Remote Poland only"
+    },
+    {
+      "company": "Simpplr",
+      "title": "SDET / Test Engineer (Playwright)",
+      "reason": "no QA openings on Greenhouse"
+    },
+    {
+      "company": "Moolya",
+      "title": "SDET (Playwright + JS/TS)",
+      "reason": "posted 2026-01-14 (stale), Indian company"
+    },
+    {
+      "company": "Light & Wonder",
+      "title": "Senior QA Engineer",
+      "reason": "manual role, 5-8 yrs, ISTQB required"
+    },
+    {
+      "company": "WS Audiology",
+      "title": "Test Automation Engineer",
+      "reason": "C#/FlaUI desktop stack"
+    },
+    {
+      "company": "Bitwarden",
+      "title": "Senior SDET Noida",
+      "reason": "official pages 404"
+    }
+  ]
+}
